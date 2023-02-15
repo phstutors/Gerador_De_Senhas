@@ -4,7 +4,7 @@
 
 ###Primeiro Passo:
 
-´´´
+´´´bash
 Execute o Arquivo main.py
 ´´´
 
