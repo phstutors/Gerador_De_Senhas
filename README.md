@@ -4,8 +4,8 @@
 
 ###Primeiro Passo:
 
-´´´bash
+```bash
 Execute o Arquivo main.py
-´´´
+```
 
 ###Segundo Passo:
